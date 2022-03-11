@@ -11,7 +11,7 @@ O projeto Urpinion consiste em criar um site para compartilhamente de opiniçõe
 
 O projeto permite fazer o upload de certas informações junto de uma imagem. Esses dados são armazenados no Firebase.
 
-O site possui responsividade, assim como uma filtragem e listagem.
+O site possui responsividade.
 <br/>
 <hr/>
 <Br/>
