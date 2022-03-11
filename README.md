@@ -1,4 +1,4 @@
-<h1>BeerDB</h1>
+<h1>Urpinion</h1>
 
 <img src="https://i.imgur.com/guAIn40.png" />
 
